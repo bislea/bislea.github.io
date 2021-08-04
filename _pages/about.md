@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a Bureau of Indin Standards [BIS](https://bis.gov.in) Laboratory Employees Association, BISLEA's website. A Registered employees association under Societies Registeration Act 1860 and working as Govt of India Rules about [CCS RSA Rules 1993](https://dopt.gov.in/sites/default/files
+This is the front page of a Bureau of Indin Standards [BIS](https://bis.gov.in) Laboratory Employees Association, BISLEA's website. A Registered employees association under Societies Registeration Act 1860 and working as per Govt of India [CCS RSA Rules 1993](https://dopt.gov.in/sites/default/files
 /2_10_80_JCA_05111993_Eng_0_0.pdf).  This website is run by current office bearers for sake of awareness about association to all BIS laboratory employees. 
 
 
