@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About BISLEA"
+    url: /aboutbislea/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Minutes of Meetings"
+    url: /Minutes/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Authorization letter request"
+    url: /Request/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Useful Circulars"
+    url: /useful/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+ #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
