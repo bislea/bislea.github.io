@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BISLEA Website"
+title                    : "BISLEA"
 title_separator          : "-"
 name                     : &name "BISLEA"
 description              : &description "BIS Laboratory Employee Association"
