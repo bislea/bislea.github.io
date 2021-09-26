@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Useful Documents about BISLEA"
+permalink: /aboutbislea/
 author_profile: true
 ---
 
