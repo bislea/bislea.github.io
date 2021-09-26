@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "BISLEA"
 title_separator          : "-"
-name                     : &name "BISLEA"
-description              : &description "BIS Laboratory Employee Association"
+name                     : &name "BISLEA Website"
+description              : &description "BIS Lab Employees Association website"
 url                      : https://bislea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bislea/bislea.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,10 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
-  #username               : &twitter
-#facebook:
-#  username               :
+twitter:
+  username               : &twitter
+facebook:
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "BIS Laboratory Employee Association"
+  name             : "BISLEA "
   avatar           : "profile.png"
-  bio              : "A registered employee associaion of BIS Laboratory employees"
-  location         : "Central Lab, Delhi"
+  bio              : "Web page for BIS lab employees association"
+  location         : "8 BIS Laboratories"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "bislea"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"https://twitter.com/replacethis"
   vine             :
   weibo            :
   xing             :
