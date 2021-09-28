@@ -4,10 +4,10 @@ main:
     url: /aboutbislea/
 
   - title: "Minutes of Meetings"
-    url: /Minutes/    
+    url: /minutes/    
 
   - title: "Authorization letter request"
-    url: /Request/    
+    url: /request/    
     
   - title: "Useful Circulars"
     url: /useful/
