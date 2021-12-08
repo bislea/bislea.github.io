@@ -6,8 +6,8 @@ permalink: /useful/forbisleaoffice
 date: 2021-12-01
 ---
 
-Click on link to get access to various useful RR and circulars for office bearers 
-Only currnet BISLEA office bearers will have access to below google drive links  
+Click on link to get access to various useful RR and circulars for office bearers. 
+Only current BISLEA office bearers will have access to below google drive links.   
 
 [Click here for Association accounts related stuff ](https://drive.google.com/drive/folders/1XDdjkITxTis76fRYznRPZW5XTa9zeNXT?usp=sharing)
 
