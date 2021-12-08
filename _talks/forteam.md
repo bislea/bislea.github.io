@@ -2,7 +2,7 @@
 title: "Collection of various RR for Association office bearers"
 collection: talks
 type: "Collection of Association functioning related stuff"
-permalink: /useful/forbisleaoffice
+permalink: /useful/forteam
 date: 2021-12-01
 ---
 
