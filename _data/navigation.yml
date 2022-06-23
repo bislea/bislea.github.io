@@ -6,8 +6,8 @@ main:
   - title: "Minutes of Meetings"
     url: /minutes/    
 
-  - title: "Authorization letter request"
-    url: /request/    
+  - title: "Notice for members"
+    url: /notice/    
     
   - title: "Useful Circulars,formats, RTI"
     url: /useful/
