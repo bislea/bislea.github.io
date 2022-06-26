@@ -1,7 +1,7 @@
 ---
 title: "trial of notice"
 collection: notice
-permalink: /notice/trail
+permalink: /notice/trail2
 excerpt: 'This is the trial-2 for notice'
 date: 2019-09-04
 #venue: 'Journal 1'
