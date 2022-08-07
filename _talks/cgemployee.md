@@ -11,8 +11,4 @@ Click on link to get access to various useful circulars
 
 [Click here for CGEWCC related circulars ](https://drive.google.com/drive/folders/1M53GbA98NPdIgFBFYCWdwVtYQJWNTMPL?usp=sharing)
 
-
-[Click here for medical related circulars](https://drive.google.com/drive/folders/1W7HRhodmEpcc4uh-dvoloc2IO2mTFMo6?usp=sharing)
-
-
 [Click here for leave related circulars](https://drive.google.com/drive/folders/1WT4_eWYGJt6CEt2UZSV4N6B1piSySv48?usp=sharing)
