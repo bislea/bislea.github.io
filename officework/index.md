@@ -12,5 +12,5 @@ Please click following links to collaborate to BISLEA office work. Links are not
 4. Work in progress [click here](https://docs.google.com/spreadsheets/d/1RGDa8r_RovbSdfYECCV-8K_HJPUaw8yWOwiWBmezaqc/edit#gid=0)
 5. 8th CPC preparation [click here](https://docs.google.com/spreadsheets/d/1dYxbl0OyuYDcvJYjfmeQakg6efz9xNMipki_1q_2LXA/edit#gid=0)
 6. Online registeration page [click here](https://docs.google.com/forms/d/e/1FAIpQLSc6yCjwtZHgoOYeKsLWQIDQdsrGzw0dHzhgiTGV30D-IPCl1w/viewform)
-7. 8. Online meeting link [click here](https://meet.google.com/rrd-wzzs-chj)
+7. Online meeting link [click here](https://meet.google.com/rrd-wzzs-chj)
 
