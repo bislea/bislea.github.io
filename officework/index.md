@@ -13,4 +13,5 @@ Please click following links to collaborate to BISLEA office work. Links are not
 5. 8th CPC preparation [click here](https://docs.google.com/spreadsheets/d/1dYxbl0OyuYDcvJYjfmeQakg6efz9xNMipki_1q_2LXA/edit#gid=0)
 6. Online registeration page [click here](https://docs.google.com/forms/d/e/1FAIpQLSc6yCjwtZHgoOYeKsLWQIDQdsrGzw0dHzhgiTGV30D-IPCl1w/viewform)
 7. Online meeting link [click here](https://meet.google.com/rrd-wzzs-chj)
+8. [APAR portal/HFMS related info sought by BISLEA](https://docs.google.com/forms/d/1G21wHyqsos71sK8gX4VFuF6f-WpzjVTlDGveYBuxfQA/edit)
 
