@@ -15,6 +15,6 @@ Please click following links to collaborate to BISLEA office work. Links are not
 7. Meeting link [click here](https://meet.google.com/rrd-wzzs-chj)
 8. BISLEA finance stuff, [for treasurer](https://drive.google.com/drive/folders/1Ast1I0PfdSFTVDkXjvxU-f5pMOX9wTZX)
 9. Content for website [kindly add](https://docs.google.com/document/d/13iAfOgis4w0W_XjJfwM7FIzv0PGiZoDokq6tidSwIm8/edit)
-10. [List of books for knowledge sharing] (https://docs.google.com/spreadsheets/d/1tPMdQtoHjdw9kbtnXVdxvRLjqhDh5BRi8wFU3eO57to/edit#gid=0)
+10. [List of books for knowledge sharing](https://docs.google.com/spreadsheets/d/1tPMdQtoHjdw9kbtnXVdxvRLjqhDh5BRi8wFU3eO57to/edit#gid=0)
 11. [APAR portal/HFMS related info sought by BISLEA](https://docs.google.com/forms/d/1G21wHyqsos71sK8gX4VFuF6f-WpzjVTlDGveYBuxfQA/edit)
 
