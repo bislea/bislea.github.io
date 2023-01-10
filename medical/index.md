@@ -12,4 +12,9 @@ Our members are eligible for the medical facilities as per CGHS rules for posted
 3. [Cashless treatment prior approval form](https://drive.google.com/file/d/17rOEhCeqKdiKsUK5sXercjDr12RaoIlv/view?usp=share_link)
 4. [Ward entitlement](https://drive.google.com/file/d/18jWTHTiakyLK4a9jD_YH6eCUCrwqz-hr/view?usp=share_link)
 5. [Medical Claim form](https://drive.google.com/file/d/1ViwYrXMb_C5BPTA3NsdYWRhMqWYuDurg/view?usp=share_link)
-6. [Essentiality Certificate-A,]https://drive.google.com/file/d/1TOiQZNNneZnYsF_wwDftkQ3287rdEjkh/view?usp=share_link
+6. [Essentiality Certificate-A,](https://drive.google.com/file/d/1TOiQZNNneZnYsF_wwDftkQ3287rdEjkh/view?usp=share_link)
+7. [Cashless MOU NROL region](https://drive.google.com/file/d/1plTs7ihI4NZ5pxoChP0uZPFJzaV0K0xM/view?usp=share_link)
+8. [Cashless MOU list SROL](https://drive.google.com/file/d/1LJaGgaUkDjXEifiWKWpIVQBLa-wkJU9f/view?usp=share_link)
+9. [Cashless MOU list EROL](https://drive.google.com/file/d/1lvkRLjMlE0GlwxQ-MsT8gl0Ai9mVHqb1/view?usp=share_link)
+10.[Cashless MOU list PBOL](https://drive.google.com/file/d/1uO5_vkQ83ot146MUZvn36RBYqZwOzY48/view?usp=share_link)
+11. WROL does not have cashless MOU.
