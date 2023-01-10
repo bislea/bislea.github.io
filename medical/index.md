@@ -17,7 +17,7 @@ Our members are eligible for the medical facilities as per CGHS rules for posted
 8. [Cashless MOU list SRO region](https://drive.google.com/file/d/1LJaGgaUkDjXEifiWKWpIVQBLa-wkJU9f/view?usp=share_link)
 9. [Cashless MOU list ERO region](https://drive.google.com/file/d/1lvkRLjMlE0GlwxQ-MsT8gl0Ai9mVHqb1/view?usp=share_link)
 10. [Cashless MOU list PBOL region](https://drive.google.com/file/d/1uO5_vkQ83ot146MUZvn36RBYqZwOzY48/view?usp=share_link)
-11. [Cashless MOU list KOBO region]https://drive.google.com/file/d/1PGahWay_mUbOtKZ5wTu8Z1dd0WOZt3BB/view?usp=share_link
+11. [Cashless MOU list KOBO region](https://drive.google.com/file/d/1PGahWay_mUbOtKZ5wTu8Z1dd0WOZt3BB/view?usp=share_link)
 12. WROL does not have cashless MOU.
 13. List of AMAs for year 2022-2023 [Chandigarh tricity](https://cgewccchd.com/Notifications/AMA%20LIST%202022-23.pdf)
 14. [Medical related rules collection](https://drive.google.com/drive/folders/1USgbF3a8YwEt0mEQhYFCwBbY3HkGeQuD)
