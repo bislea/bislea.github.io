@@ -13,10 +13,10 @@ BIS staff member have access to intranet,  which hosts all the circular, This we
 
 [View outside post application related rules and forms](https://drive.google.com/drive/folders/10-FYRj-Lrfq3NEfWYaEgaFw_rZpyo6Um?usp=sharing)
 
-[View medical facility related rules](https://drive.google.com/drive/folders/1USgbF3a8YwEt0mEQhYFCwBbY3HkGeQuD?usp=sharing)
+[View medical facility related rules and formats](https://bislea.github.io/medical/)
 
 [View compassionate appointment related rules](https://drive.google.com/drive/folders/1fI1V-GpZ6OsI1dMTBwbrMuyoR4hQuKtG?usp=sharing)
 
-More links will be added below.... 
+More links will be added below....Please share the stuff on our email, if you want to see the rules here.  
 
 
