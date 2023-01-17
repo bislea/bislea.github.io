@@ -40,7 +40,6 @@ As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 inc
 
 उपरोक्त खर्च को बजट हैड repair and maintenance , furniture and office equipment हेड कोड 2901 में बुक किया जा सकता हैं ।
 
-अनुमोदनार्थ प्रस्तुत।
 
 Admin and finance department is kindly requested to process the financial approval procedure after LPC meeting for us.
 
