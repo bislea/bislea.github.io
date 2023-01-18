@@ -21,4 +21,3 @@ BIS staff member have access to intranet,  which hosts all the circular, This we
 
 More links will be added below....Please share the stuff on our email, if you want to see the rules/formats here.  
 
-
