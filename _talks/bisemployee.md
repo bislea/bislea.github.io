@@ -17,6 +17,8 @@ BIS staff member have access to intranet,  which hosts all the circular, This we
 
 [View compassionate appointment related rules](https://drive.google.com/drive/folders/1fI1V-GpZ6OsI1dMTBwbrMuyoR4hQuKtG?usp=sharing)
 
-More links will be added below....Please share the stuff on our email, if you want to see the rules here.  
+[View vigilance formats](https://drive.google.com/drive/folders/1JMZGzR-EhRwGbWFkPl971fAnNfFXv4hH?usp=share_link)
+
+More links will be added below....Please share the stuff on our email, if you want to see the rules/formats here.  
 
 
