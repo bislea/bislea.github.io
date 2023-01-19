@@ -1,5 +1,4 @@
 Please use the lines wherever suitable for you. In spirit of cooperation, prepare by BISLEA for fellow staff members of BIS.
-
 As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 section 1.3, Laboratory Equipments- purchase thereof , Head of laboratory has been deletegated for administrative and financial approval for purchase upto 25.00 lakhs in each case.
 
 As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 section 1.44 subsection (a) Laboratory consumables , OIC Testing section has been delegated with financial power Upto Rs 0.50 Lakhs on each occasion, Head of labs have been delegated financial power with Upto 10.00 lakh on each occasion.
@@ -41,7 +40,6 @@ As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 inc
 उपरोक्त खर्च को बजट हैड laboratory equipments हेड कोड 708-709 में बुक किया जा सकता हैं ।
 
 उपरोक्त खर्च को बजट हैड repair and maintenance , furniture and office equipment हेड कोड 2901 में बुक किया जा सकता हैं ।
-
 
 Admin and finance department is kindly requested to process the financial approval procedure after LPC meeting for us.
 
