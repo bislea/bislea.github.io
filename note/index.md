@@ -1,7 +1,7 @@
 # This page has been created to help all members in better drafting of note for day to day use. 
 
 ## For delegation of financial power lines 
-1.As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 section 1.3, Laboratory Equipments- purchase thereof , Head of laboratory has been deletegated for administrative and financial approval for purchase upto 25.00 lakhs in each case.  
+1. As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 section 1.3, Laboratory Equipments- purchase thereof , Head of laboratory has been deletegated for administrative and financial approval for purchase upto 25.00 lakhs in each case.  
 
 2. As per Delegation of financial power vide BIS/DGO(478)/2022 Dated 07-03-2022 section 1.44 subsection (a) Laboratory consumables , OIC Testing section has been delegated with financial power Upto Rs 0.50 Lakhs on each occasion, Head of labs have been delegated financial power with Upto 10.00 lakh on each occasion.
 
