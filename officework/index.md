@@ -9,9 +9,9 @@ Please click following links to collaborate to BISLEA office work. Links are not
 1. Letter drafting [click here](https://docs.google.com/document/d/1KwhZ1eueSxfeZq-fk9XW4xNr8DehZYAkOFYB77h1_-k/edit?usp=sharing)
 2. Local labs matters letter drafting [NRL](https://docs.google.com/document/d/113dosl21lLmuMsXqYAPHr4OXG3yBojzph8yYk3HU1Cg/edit) [WRL](https://docs.google.com/document/d/1lJchtAVI7GT1MC8uB7GCb04-lDTZEZ5x_JYkHD4fO6c/edit)
 3. RTI application [click here](https://docs.google.com/document/d/1j7eF31LXPUR4LGRz5NqYHWBaNjV2qzo2b8KUtOliU6U/edit)
-4. Work in progress [click here](https://docs.google.com/spreadsheets/d/1RGDa8r_RovbSdfYECCV-8K_HJPUaw8yWOwiWBmezaqc/edit#gid=0)
-5. Preparation for 8th CPC [click here](https://docs.google.com/spreadsheets/d/1dYxbl0OyuYDcvJYjfmeQakg6efz9xNMipki_1q_2LXA/edit#gid=0)
-6. For new members-[Membership form](https://bislea.github.io/files/Membership-form.pdf) & Online registeration page-[click here](https://docs.google.com/forms/d/e/1FAIpQLSc6yCjwtZHgoOYeKsLWQIDQdsrGzw0dHzhgiTGV30D-IPCl1w/viewform)
+4. Work in progress [click here](https://docs.google.com/spreadsheets/d/1RGDa8r_RovbSdfYECCV-8K_HJPUaw8yWOwiWBmezaqc/edit#gid=0) , & Preparation for 8th CPC [click here](https://docs.google.com/spreadsheets/d/1dYxbl0OyuYDcvJYjfmeQakg6efz9xNMipki_1q_2LXA/edit#gid=0)
+5. List of BISLEA Members [click here]([https://docs.google.com/spreadsheets/d/1dYxbl0OyuYDcvJYjfmeQakg6efz9xNMipki_1q_2LXA/edit#gid=0](https://docs.google.com/spreadsheets/d/1u9mW_RQ84gKwLuqPN12bN7UyLajp7Gwt9kWy54ybERw/edit#gid=0))
+6. For new members-[Membership form](https://bislea.github.io/files/Membership-form.pdf) ,Online registeration page-[click here](https://docs.google.com/forms/d/e/1FAIpQLSc6yCjwtZHgoOYeKsLWQIDQdsrGzw0dHzhgiTGV30D-IPCl1w/viewform) , Welcome message [https://docs.google.com/document/d/1SXafVkXhdsbUqSDmUaeUutE2NO0pKekesQY2NP0fc9o/edit]
 7. Meeting link [click here](https://meet.google.com/rrd-wzzs-chj)
 8. BISLEA finance stuff, [for treasurer](https://drive.google.com/drive/folders/1Ast1I0PfdSFTVDkXjvxU-f5pMOX9wTZX)
 9. Content for website [kindly add](https://docs.google.com/document/d/13iAfOgis4w0W_XjJfwM7FIzv0PGiZoDokq6tidSwIm8/edit)
