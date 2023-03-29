@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is the front page of a Bureau of Indian Standards [BIS](https://bis.gov.in) Laboratory Employees Association, BISLEA's website. A Registered employees association under Societies Registeration Act 1860 and working as per Govt of India [CCS RSA Rules 1993](https://dopt.gov.in/acts/ccs-rsa-rules-1993).  This website is run by current office bearers for sake of awareness about association to all BIS laboratory employees. 
-To know about the current office bearers [click here](https://bislea.github.io/files/officebearers.pdf)
+To know about the current office bearers [click here](https://docs.google.com/document/d/1eSBOdh1k2T6RkzdO5xF8AvsCaPqvF7euj0bvLYeIWsw/edit)
 
 
 What is available on website
