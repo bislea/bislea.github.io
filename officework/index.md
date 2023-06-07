@@ -18,5 +18,5 @@ Please click following links to collaborate to BISLEA office work. Links are not
 10. [List of books for knowledge sharing](https://docs.google.com/spreadsheets/d/1tPMdQtoHjdw9kbtnXVdxvRLjqhDh5BRi8wFU3eO57to/edit#gid=0)
 11. [Address of various offices in printable format](https://docs.google.com/spreadsheets/d/1VhP2qGA_uFc1LFY5CdRxBb9vANqAnzSi/edit#gid=1844763315)
 12. [Reimbursement of expenditure made for BISLEA](https://docs.google.com/document/d/1ckAIy3W33GZvDobfdWichLwhPBi9lNlcGBrRYgTB5dQ/edit)
-13. [Day to day note writing guide](https://bislea.github.io/note)[Medical guide direct link](https://bislea.github.io/medical)
+13. [Day to day note writing guide](https://bislea.github.io/note), [Medical guide direct link](https://bislea.github.io/medical)
 
