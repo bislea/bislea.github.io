@@ -12,3 +12,5 @@ Click on link to get access to various useful circulars
 [Click here for CGEWCC related circulars ](https://drive.google.com/drive/folders/1M53GbA98NPdIgFBFYCWdwVtYQJWNTMPL?usp=sharing)
 
 [Click here for leave related circulars](https://drive.google.com/drive/folders/1WT4_eWYGJt6CEt2UZSV4N6B1piSySv48?usp=sharing)
+
+[Click for Special casual leave related circulars](https://drive.google.com/drive/folders/1PoGnMhLuknOfOjaKtUcDHgfb1dXgsbdj)
