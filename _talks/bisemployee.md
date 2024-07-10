@@ -17,9 +17,13 @@ BIS staff member have access to intranet,  which hosts all the circular, This we
 
 [View compassionate appointment related rules](https://drive.google.com/drive/folders/1fI1V-GpZ6OsI1dMTBwbrMuyoR4hQuKtG?usp=sharing)
 
+[Incentive for higher study](https://drive.google.com/drive/folders/1tQsFYKfnT5JgVvi8yN2m9fl24HsUu6ee?usp=drive_link)
+
 [View vigilance formats](https://drive.google.com/drive/folders/1JMZGzR-EhRwGbWFkPl971fAnNfFXv4hH?usp=share_link)
 
 [Useful forms](https://drive.google.com/drive/folders/19XAM92RYMUkaw4vANjx24qyAaE43lcJO)
+
+[Public folder with above circulars combined](https://drive.google.com/drive/folders/1p7kUdmM1eRGm0Sr-DsN2qYwAmKWs1pn1?usp=drive_link)
 
 More links will be added below....Please share the stuff on our email, if you want to see the rules/formats here.  
 
