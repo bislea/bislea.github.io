@@ -5,7 +5,7 @@ title: "BISLEA Medical section"
 What is available on BISLEA-Medical section
 ======
 
-Our members are eligible for the medical facilities as per CGHS rules for posted in Delhi NCR area and as per CSMA rules, 1944 for posting in other than Delhi-NCR area. So this place has been prepared to guide members with ready made forms/rules etc collection. 
+Our members(BIS Employees) are eligible for the medical facilities as per CGHS rules for posted in Delhi NCR area and as per CSMA rules, 1944 for posting in other than Delhi-NCR area. So this place has been prepared to guide members with ready made forms/rules etc collection. 
 
 1. [Format for AMA declaration](https://docs.google.com/document/d/1HVlokh0xH_K7-ZZ5nbZUywzMejflrDmphuvqNrgHaPs/edit)
 2. [CGHS hospitals search portal](https://cghs.nic.in/reports/view_hospital.jsp)
