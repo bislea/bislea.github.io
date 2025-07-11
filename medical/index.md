@@ -22,5 +22,5 @@ Our members(BIS Employees) are eligible for the medical facilities as per CGHS r
 13. [Cashless MOU list KOBO region](https://drive.google.com/file/d/1PGahWay_mUbOtKZ5wTu8Z1dd0WOZt3BB/view?usp=share_link)
 14. WROL does not have cashless MOU.
 15. List of AMAs for year 2022-2023 [Chandigarh tricity](https://cgewccchd.com/Notifications/AMA%20LIST%202022-23.pdf) [Chennai region](https://drive.google.com/file/d/1xBiCQY3eN_kLJpm22zE0YJA8FHiuWK1i/view?usp=share_link)
-16. [Medical related rules collection](https://drive.google.com/drive/folders/1USgbF3a8YwEt0mEQhYFCwBbY3HkGeQuD)
-
+16. [New Medical policy](https://drive.google.com/file/d/1myUDb6jUCIdY7n5fVOceym1Jx7d7lapC/view?usp=drive_link), [FAQ](https://drive.google.com/file/d/1I26BRryfDIib4Y23crKh5Dgdsq-qH7DR/view?usp=drive_link), [Option selection form](https://drive.google.com/file/d/1YcDt10r5uRbP_BUGv4JkAsExxYxhf3MZ/view?usp=drive_link),[Claim form](https://drive.google.com/file/d/1IdNShVyGRcUE1B53DzF26kzZdsJhdDQg/view?usp=drive_link)
+17. [Medical related rules collection](https://drive.google.com/drive/folders/1USgbF3a8YwEt0mEQhYFCwBbY3HkGeQuD)
