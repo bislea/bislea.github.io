@@ -23,6 +23,8 @@ BIS staff member have access to intranet,  which hosts all the circular, This we
 
 [Useful forms](https://drive.google.com/drive/folders/19XAM92RYMUkaw4vANjx24qyAaE43lcJO)
 
+[Lease accomodation Policy of BIS](https://bislea.github.io/lease)
+
 [Public folder with above circulars combined](https://drive.google.com/drive/folders/1p7kUdmM1eRGm0Sr-DsN2qYwAmKWs1pn1?usp=drive_link)
 
 More links will be added below....Please share the stuff on our email, if you want to see the rules/formats here.  
