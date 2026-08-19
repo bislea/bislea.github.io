@@ -14,5 +14,5 @@ To know about the current office bearers [click here](https://docs.google.com/do
 
 What is available on website
 ======
-Kindly use the relevent links available on this website for useful information to all members and their family, apart from our memorandum of association, the rules and regulations of the BISLEA. This website will also keep useful circulars released by GOI on employees matters such as medical with CGHS as well as CSMA rules, leaves, outside post application etc. Kindly contribute your part for improvement in this website.
+Kindly use the relevant links available on this website for useful information to all members and their family, apart from our memorandum of association, the rules and regulations of the BISLEA. This website will also keep useful circulars released by GOI on employees matters such as medical with CGHS as well as CSMA rules, leaves, outside post application etc. Kindly contribute your part for improvement in this website.
 Please visit our useful pages related to [day to day note writing](https://docs.google.com/document/d/143PRXDV1TtHXJYrYfJt3Y0Xmj__8NNoHyLXt5ArHxVo/edit?tab=t.0)), [Lease accommodation policy](https://bislea.github.io/lease), [NPS related](https://bislea.github.io/nps), [Medical benefits](https://bislea.github.io/medical)
