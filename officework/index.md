@@ -11,7 +11,7 @@ Please click following links to collaborate to BISLEA office work. Some of links
 4. Work in progress [click here](https://docs.google.com/spreadsheets/d/1RGDa8r_RovbSdfYECCV-8K_HJPUaw8yWOwiWBmezaqc/edit#gid=0) , & Preparation for 8th CPC [click here](https://docs.google.com/spreadsheets/d/1dYxbl0OyuYDcvJYjfmeQakg6efz9xNMipki_1q_2LXA/edit#gid=0)
 5. List of BISLEA Members [click here](https://docs.google.com/spreadsheets/d/1u9mW_RQ84gKwLuqPN12bN7UyLajp7Gwt9kWy54ybERw/edit#gid=0)
 6. For new members-[Membership form](https://bislea.github.io/files/Membership-form.pdf) ,Online registration-[click here](https://docs.google.com/forms/d/e/1FAIpQLSc6yCjwtZHgoOYeKsLWQIDQdsrGzw0dHzhgiTGV30D-IPCl1w/viewform) ,Welcome message [click here](https://docs.google.com/document/d/1SXafVkXhdsbUqSDmUaeUutE2NO0pKekesQY2NP0fc9o/edit)
-7. Meeting link [click here](https://meet.google.com/rrd-wzzs-chj)
+7. Meeting link [click here](https://meet.google.com/rrd-wzzs-chj), [Minutes circulation](https://docs.google.com/forms/d/e/1FAIpQLSfAWCsjv3wxNtlJ4AFBk_DT7XXixBf1CVx_gXUP583jMdmwvA/viewform?usp=dialog)
 8. [BISLEA finance folder-for treasurer](https://drive.google.com/drive/folders/1Ast1I0PfdSFTVDkXjvxU-f5pMOX9wTZX), [Online Reimbursement request with individual Gmail login](https://forms.gle/3X3LFJEAN2brAzuC8), [Payment voucher](https://drive.google.com/file/d/1bcMD4-VuXihYm-ROsqPoNe86_FJzzpcy/view?usp=drive_link)
 9. Content for website [kindly add](https://docs.google.com/document/d/13iAfOgis4w0W_XjJfwM7FIzv0PGiZoDokq6tidSwIm8/edit)
 10. [List of books for knowledge sharing](https://docs.google.com/spreadsheets/d/1tPMdQtoHjdw9kbtnXVdxvRLjqhDh5BRi8wFU3eO57to/edit#gid=0)
