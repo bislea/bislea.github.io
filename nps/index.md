@@ -21,3 +21,5 @@ This is in connection with implementation of the Central Civil Services (Impleme
 [Form 2 in .docx format, if you want to edit yourself before print](https://bislea.github.io/nps/Form-2.docx)
 
 [Finance department circular dated 26-07-2023](https://drive.google.com/file/d/1c6R8KTRDdGw40mSQXglhKYRTTid__wO_/view?usp=drive_link)
+
+[DOPT Circular on the matter](https://documents.doptcirculars.nic.in/D3/D03ppw/OM%20dated%20261022PtOq9.PDF)
