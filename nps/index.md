@@ -12,11 +12,11 @@ This is in connection with implementation of the Central Civil Services (Impleme
 
 [Click here for cover letter](https://docs.google.com/document/d/1A7LRDi09XtoX_d7spapo3U3XemlN6F7EJFW31VdicwA/edit)
 
-[Form 1 in .PDF format, if you want to write your name on printout](https://drive.google.com/file/d/1g8YD0KpHeXCCnFvdOzdPTJzQHKcV6eRx/view?usp=drive_link)
+[Form 1 in .PDF format, if you want to write your name on printout](https://bislea.github.io/nps/Form-1.pdf)
 
 [Form 1 in .docx format, if you want to edit yourself before print](https://bislea.github.io/nps/Form-1.docx)
 
-[Form 2 in .PDF format, if you want to write your name on printout](https://drive.google.com/file/d/1ZJWPFZuT7pFuSx7JKGWXj1kAYvEMnd3J/view?usp=drive_link)
+[Form 2 in .PDF format, if you want to write your name on printout](https://bislea.github.io/nps/Form-2.pdf)
 
 [Form 2 in .docx format, if you want to edit yourself before print](https://bislea.github.io/nps/Form-2.docx)
 
