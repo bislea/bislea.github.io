@@ -13,7 +13,7 @@ Please click following links to collaborate to BISLEA office work. Some of links
 6. For new members-[Membership form](https://bislea.github.io/files/Membership-form.pdf) ,Online registration-[click here](https://docs.google.com/forms/d/e/1FAIpQLSc6yCjwtZHgoOYeKsLWQIDQdsrGzw0dHzhgiTGV30D-IPCl1w/viewform) ,Welcome message [click here](https://docs.google.com/document/d/1SXafVkXhdsbUqSDmUaeUutE2NO0pKekesQY2NP0fc9o/edit)
 7. Meeting link [click here](https://meet.google.com/rrd-wzzs-chj), [Minutes circulation](https://docs.google.com/forms/d/e/1FAIpQLSfAWCsjv3wxNtlJ4AFBk_DT7XXixBf1CVx_gXUP583jMdmwvA/viewform?usp=dialog)
 8. [BISLEA finance folder-for treasurer](https://drive.google.com/drive/folders/1Ast1I0PfdSFTVDkXjvxU-f5pMOX9wTZX), [Online Reimbursement request with individual Gmail login](https://forms.gle/3X3LFJEAN2brAzuC8), [Payment voucher offline](https://drive.google.com/file/d/1bcMD4-VuXihYm-ROsqPoNe86_FJzzpcy/view?usp=drive_link)
-9. Content for website [kindly add](https://docs.google.com/document/d/13iAfOgis4w0W_XjJfwM7FIzv0PGiZoDokq6tidSwIm8/edit)
+9. Content for website [kindly add as suggestion](https://docs.google.com/document/d/13iAfOgis4w0W_XjJfwM7FIzv0PGiZoDokq6tidSwIm8/edit)
 10. [List of books for knowledge sharing](https://docs.google.com/spreadsheets/d/1tPMdQtoHjdw9kbtnXVdxvRLjqhDh5BRi8wFU3eO57to/edit#gid=0)
 11. [Address of various offices in printable format](https://docs.google.com/spreadsheets/d/1VhP2qGA_uFc1LFY5CdRxBb9vANqAnzSi/edit#gid=1844763315)
 12. [Reimbursement of expenditure made for BISLEA](https://docs.google.com/document/d/1ckAIy3W33GZvDobfdWichLwhPBi9lNlcGBrRYgTB5dQ/edit)
