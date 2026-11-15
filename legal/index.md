@@ -11,25 +11,30 @@ See the efforts made by BISLEA's teams and members over the years, from the arch
 
 ### Insurance implementation case- Brief WP C 5960 of 2023
 1.	BISLEA have tried for implementation of accidental insurance as well as group savings linked insurance for its members, where for this we have approached Delhi High court also.
-2.	[Request access to the documents(Including Petition)](https://drive.google.com/drive/folders/193ZztRNw5cnRqlNQMQPcAYClZal3crc0?usp=drive_link)
+2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/193ZztRNw5cnRqlNQMQPcAYClZal3crc0?usp=drive_link)
 3.	Status-Case is ongoing at the time of writing of this page on 16-11-2026, see the DHC website for latest update.
 
 ### Self appraisal in APAR for lab cadre representation disposal case WP (C) 11681 of 2023 
 1.	BISLEA have tried for implementation of self appraisal in APAR. We had to approach the Delhi High court for disposal of our representation. 
-2.	[Request access to the documents(Petition copy not available)](https://drive.google.com/drive/folders/193ZztRNw5cnRqlNQMQPcAYClZal3crc0?usp=drive_link)
-3.	Status- Disposed, [Judgement PDF]()
+2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1GyAcw06BNjSzmmAmjDqisL_n89XL7pqa?usp=drive_link)
+3.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1UxkW-npbQsM1Jr28FwSrGnrn05seiPKw/view?usp=sharing)
 
 ### Promotion matter related case WP (C) 12121 of 2023 
 1.	BISLEA have tried for faster notification of new posts agreed by BIS Management and Secretary DoCA. 
-2.	[Request access to the documents(Petition copy not available)](https://drive.google.com/drive/folders/1zLPUoGyIpZkCDkt7_9NjyP0J4ccMLm7E?usp=drive_link)
-3.	Status- Disposed, [Judgement PDF]()
+2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1zLPUoGyIpZkCDkt7_9NjyP0J4ccMLm7E?usp=drive_link)
+3.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1JQrMV7UJP09MpyXNsSggb6VjAJdJ3IL3/view?usp=sharing)
+
+### Implementation of self appraisal in APAR from the 2024 WP (C) 5151 of 2024 
+1.	BISLEA had to approach once again to court for implementation of the self appraisal from the ongoing exercise. Result came in favor of BISLEA. 
+2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1jZ_qAaYys-lJB6IcYl-bptBh-ir-DzY9?usp=drive_link)
+3.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1tvFvoUoXG01r1OV3eqXM2ODJp-witQSU/view?usp=sharing)
 
 ### Premature increment related case WP (C) 10637 of 2024 
 1.	BISLEA have tried for grant of premature increments as per provisions of FR 27 to its members through this case
-2.	[Request access to the documents(Petition copy not available)](https://drive.google.com/drive/folders/1VE8cSkipfeUwbJAonWLSe9UyzGoGyFtW?usp=drive_link)
+2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1VE8cSkipfeUwbJAonWLSe9UyzGoGyFtW?usp=drive_link)
 3.	Status- Counter affidavit filed
 
-##### Against arbitrary blocking of outside posts applications of serving employees WP (C) 13810 of 2024 
-1.	BIS manamgement have blocked outside post applications of employees citing shortage of staff, hence BISLEA have approached the DHC for relief. 
-2.	[Request access to the documents(Petition copy available)](https://drive.google.com/drive/folders/1JQVv2HnS8QDqyJQgwbQKSpgu4Sw4OAnq?usp=drive_link)
+### Against arbitrary blocking of outside posts applications of serving employees WP (C) 13810 of 2024 
+1.	BIS management have blocked outside post applications of employees citing shortage of staff, hence BISLEA have approached the DHC for relief. 
+2.	[Request access to the documents (Petition copy available)](https://drive.google.com/drive/folders/1JQVv2HnS8QDqyJQgwbQKSpgu4Sw4OAnq?usp=drive_link)
 3.	Status- Counter affidavit filed, BISLEA rejoinder filed.
