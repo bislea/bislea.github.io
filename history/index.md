@@ -1,6 +1,5 @@
----
 title: "BIS Laboratory cadre history"
----
+--
 ## Historically the staff posted in laboratory have been struggling to get the pay parity with other scientific organization's scientific support staff. 
 See the efforts made by BISLEA's teams and members over the years, from the archives of BISLEA. 
 
