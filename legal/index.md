@@ -32,7 +32,7 @@ Efforts made by BISLEA's teams and members over the years, from the archives of 
 3.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1tvFvoUoXG01r1OV3eqXM2ODJp-witQSU/view?usp=sharing)
 
 ### Premature increment related case WP (C) 10637 of 2024 in Delhi High Court
-1.	BISLEA have tried for grant of premature increments as per provisions of FR 27 to its members through this case
+1.	BISLEA have tried for grant of premature increments as per provisions of FR 27 to its members through this case.
 2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1VE8cSkipfeUwbJAonWLSe9UyzGoGyFtW?usp=drive_link)
 3.	Status- Counter affidavit filed
 
