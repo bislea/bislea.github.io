@@ -3,12 +3,12 @@ title: "BISLEA legal battles history"
 ---
 ## BISLEA through its members have fought legal battles on multiple issues apart from main issue i.e. pay parity with other scientific organization's scientific support staff. 
 
-See the efforts made by BISLEA's teams and members over the years, from the archives of BISLEA. Orders have been downloaded from Supreme court and Delhi High court's website. Some useful service matters cases would also be listed here. Advocates working for BISLEA or members may request to folder for educational purposes. 
+Efforts made by BISLEA's teams and members over the years, from the archives of BISLEA are accessible here. Orders have been downloaded from Supreme court and Delhi High court's website. Some useful service matters cases would also be listed here. Advocates working for BISLEA or members may request to folder for educational purposes. 
 
 ### 1640 pay scale case CIVIL APPEAL NO(s). 5185 OF 2007 
 1.	BISLEA have fought a legal battle for pay parity with staff joining the BIS as Assistant posts for its members working as Technical Assistants(Labs).
 2.	Though most of members who fought this have retired we know about this by 1640 scale case. Data in digital formats is not available with current team.
-3.	BISLEA have won in Supreme court, when department challenged the high court judgment came in favour of laboratory employees. The members were issued pay arrears in this matter. 
+3.	BISLEA have won in Supreme court, when department challenged the high court judgment came in favor of laboratory employees. The members were issued pay arrears in this matter. 
 4.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1U17mUE7IdK_xZn_QC_TTHsnQ1yQWCDbA/view?usp=sharing)
 
 ### Insurance implementation case- Brief WP C 5960 of 2023 in Delhi High Court
