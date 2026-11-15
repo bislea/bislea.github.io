@@ -1,4 +1,6 @@
-# BISLEA legal battles history
+---
+title: "BISLEA legal battles history"
+---
 ## BISLEA through its members have fought legal battles on multiple issues apart from main issue i.e. pay parity with other scientific organization's scientific support staff. 
 
 See the efforts made by BISLEA's teams and members over the years, from the archives of BISLEA. Orders have been downloaded from Supreme court and Delhi High court's website. Some more useful cases have been listed here. Advocates working for BISLEA or members may request to folder for educational purposes. 
