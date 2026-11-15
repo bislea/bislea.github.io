@@ -1,7 +1,6 @@
 ---
 title: "BISLEA Medical section"
 ---
-
 What is available on BISLEA-Medical section
 ======
 
