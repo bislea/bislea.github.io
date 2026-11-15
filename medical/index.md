@@ -1,7 +1,7 @@
 ---
 title: "BISLEA Medical section"
 ---
-What is available on BISLEA-Medical section
+What is available on BISLEA- Medical section
 ======
 
 Our members(BIS Employees) are eligible for the medical facilities as per CGHS rules for posted in Delhi NCR area and as per CSMA rules, 1944 for IPD and new OPD policy for posting in other than Delhi-NCR area. So this place has been prepared to guide members with ready made forms/rules etc collection. 
