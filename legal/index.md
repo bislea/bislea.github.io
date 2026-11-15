@@ -41,7 +41,7 @@ Status- Disposed, [Judgement summary](https://www.casemine.com/judgement/in/5609
 ### Premature increment related case WP (C) 10637 of 2024 in Delhi High Court
 1.	BISLEA have tried for grant of premature increments as per provisions of FR 27 to its members through this case.
 2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1VE8cSkipfeUwbJAonWLSe9UyzGoGyFtW?usp=drive_link)
-3.	Status- Counter affidavit filed
+3.	Status- Counter affidavit filed by BIS management on 28-10-2026.
 
 ### Against arbitrary blocking of outside posts applications of employees WP (C) 13810 of 2024 in Delhi High Court 
 1.	BIS management have blocked outside post applications of employees citing shortage of staff, hence BISLEA have approached the DHC for relief. 
