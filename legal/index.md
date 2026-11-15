@@ -7,7 +7,8 @@ See the efforts made by BISLEA's teams and members over the years, from the arch
 
 ### 1640 case 
 1.	BISLEA have fought a legal battle for pay parity with staff joining the BIS as Assistant posts for its members working as Technical Assistants(Labs).
-2.	....
+2.	BISLEA have won in Supreme court.
+
 #### Insurance implementation case- Brief WP C 5960 of 2023
 1.	BISLEA have tried for implementation of accidental insurance as well as group savings linked insurance for its members, where for this we have approached Delhi High court also.
 2.	[Request access to the documents(Including Petition)](https://drive.google.com/drive/folders/193ZztRNw5cnRqlNQMQPcAYClZal3crc0?usp=drive_link)
