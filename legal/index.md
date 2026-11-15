@@ -17,10 +17,9 @@ Efforts made by BISLEA's teams and members over the years, from the archives of 
 3.	Status- Disposed, [Judgement summary](https://www.casemine.com/judgement/in/56090beee4b0149711175bf2)
 
 ### Pay scale of 1640 Rs case CIVIL APPEAL NO(s). 5185 OF 2007 in Supreme Court of India
-1.	Though most of members who fought this have retired we know about this by 1640 scale case. Data in digital formats is not available with current team.
-2.	BIS had filed case against the BISLEA and BISLEA had won in Supreme court, when department challenged the high court judgment came in favor of laboratory employees.
-3.	The members were issued pay arrears in this matter.
-4.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1U17mUE7IdK_xZn_QC_TTHsnQ1yQWCDbA/view?usp=sharing)
+1.	Even though the judgement of division bench did not come in favor of BIS, BIS had filed case against the BISLEA and BISLEA had won in Supreme court,
+2.	Ultimately the appeal was disposed off by Supreme court and the members/lab cadre employees were issued pay arrears in this matter.
+3.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1U17mUE7IdK_xZn_QC_TTHsnQ1yQWCDbA/view?usp=sharing)
 
 ### Insurance implementation case- WP (C) 5960 of 2023 in Delhi High Court
 1.	BISLEA have tried for implementation of accidental insurance as well as group savings linked insurance for its members, where for this we have approached Delhi High court also.
