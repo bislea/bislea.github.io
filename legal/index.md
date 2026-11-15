@@ -23,7 +23,7 @@ Efforts made by BISLEA's teams and members over the years, from the archives of 
 
 ### Insurance implementation case- WP (C) 5960 of 2023 in Delhi High Court
 1.	BISLEA have tried for implementation of accidental insurance as well as group savings linked insurance for its members, where for this we have approached Delhi High court also.
-2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/193ZztRNw5cnRqlNQMQPcAYClZal3crc0?usp=drive_link)
+2.	[Request access to the documents (Petition copy available)](https://drive.google.com/drive/folders/193ZztRNw5cnRqlNQMQPcAYClZal3crc0?usp=drive_link)
 3.	Status- Counter affidavit filed by BIS, Rejoinder filed by BISLEA. See DHC website for updates. 
 
 ### Self appraisal in APAR for lab cadre representation disposal case WP (C) 11681 of 2023 in Delhi High Court
@@ -33,7 +33,7 @@ Efforts made by BISLEA's teams and members over the years, from the archives of 
 
 ### Promotion matter related case WP (C) 12121 of 2023 in Delhi High Court
 1.	BISLEA have tried for faster notification of new posts agreed by BIS Management and Secretary DoCA. 
-2.	[Request access to the documents (Petition copy not available)](https://drive.google.com/drive/folders/1zLPUoGyIpZkCDkt7_9NjyP0J4ccMLm7E?usp=drive_link)
+2.	[Request access to the documents (Petition copy available)](https://drive.google.com/drive/folders/1zLPUoGyIpZkCDkt7_9NjyP0J4ccMLm7E?usp=drive_link)
 3.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1JQrMV7UJP09MpyXNsSggb6VjAJdJ3IL3/view?usp=sharing)
 
 ### Implementation of self appraisal in APAR from the 2024 WP (C) 5151 of 2024 in Delhi High Court
