@@ -5,10 +5,17 @@ title: "BISLEA legal battles history"
 
 Efforts made by BISLEA's teams and members over the years, from the archives of BISLEA are accessible here. Orders have been downloaded from Supreme court and Delhi High court's website. Some useful service matters cases would also be listed here. Advocates working for BISLEA or members may request to folder for educational purposes. 
 
+Though most of members who fought this have retired we know about this by 1640 scale case. Data in digital formats is not available with current team.
+
+### 1640 pay scale case Letter Patent Appeal (LPA) 958 of 2002 in Division bench of Delhi High court
+1.	 Delhi high court had ordered in the favor of the BIS laboratory employees they and were supposed to get pay arrears.
+2.	BIS management had appealed against the judgement hence BISLEA is respondent here, however the result came in favor of laboratory employees. 
+Status- Disposed, [Judgement summary](https://www.casemine.com/judgement/in/56090beee4b0149711175bf2)
+
 ### 1640 pay scale case CIVIL APPEAL NO(s). 5185 OF 2007 in Supreme Court of India
 1.	BISLEA have fought a legal battle for pay parity with staff joining the BIS as Assistant posts for its members working as Technical Assistants(Labs).
 2.	Though most of members who fought this have retired we know about this by 1640 scale case. Data in digital formats is not available with current team.
-3.	BISLEA have won in Supreme court, when department challenged the high court judgment came in favor of laboratory employees. The members were issued pay arrears in this matter. 
+3.	BIS had filed case against the BISLEA and BISLEA had won in Supreme court, when department challenged the high court judgment came in favor of laboratory employees. The members were issued pay arrears in this matter. 
 4.	Status- Disposed, [Judgement PDF](https://drive.google.com/file/d/1U17mUE7IdK_xZn_QC_TTHsnQ1yQWCDbA/view?usp=sharing)
 
 ### Insurance implementation case- Brief WP C 5960 of 2023 in Delhi High Court
