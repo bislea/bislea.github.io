@@ -19,5 +19,5 @@ Kindly use the relevant links available on this website for useful information t
 
 Please visit our useful pages related to [day to day note writing](https://docs.google.com/document/d/143PRXDV1TtHXJYrYfJt3Y0Xmj__8NNoHyLXt5ArHxVo/edit?tab=t.0), [Lease accommodation policy](https://bislea.github.io/lease), [NPS related](https://bislea.github.io/nps), [Medical benefits](https://bislea.github.io/medical)
 
-Know about [BIS laboratory cadre promotion struggle history](https://bislea.github.io/history) and [our legal battles](https://bislea.github.io/legal) 
+Know about [BIS laboratory cadre promotion struggle history](https://bislea.github.io/history)
 
