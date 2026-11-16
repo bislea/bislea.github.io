@@ -3,11 +3,11 @@ main:
   - title: "About BISLEA"
     url: /aboutbislea/
 
-  - title: "Minutes of Meetings"
-    url: /minutes/    
-
   - title: "Notice for members"
     url: /notice/    
+
+  - title: "Legal battles"
+    url: /legal/    
     
   - title: "Useful Circulars,formats, RTI"
     url: /useful/
